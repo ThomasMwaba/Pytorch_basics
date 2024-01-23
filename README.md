@@ -1,2 +1,2 @@
 #### Pytorch_basics
-This repository has Pytorch basics.
+This repository has got  Pytorch basics.
